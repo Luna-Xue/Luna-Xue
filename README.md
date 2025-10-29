@@ -2,6 +2,7 @@
 <p align="center">
 Assistant Professor · University of Hawaiʻi at Mānoa<br/>
 Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber Physical System</b>, and <b>AI/ML for O-RAN</b> 
+  [![Lab Website](https://img.shields.io/badge/Website-Luna--Xue-00694B?logo=githubpages&logoColor=white)](https://github.com/NextGLab)
 </p>
 
 ---
