@@ -19,11 +19,11 @@ Courses I'm developing and teaching:
 <a href="https://scholar.google.com/citations?user=rhcjOdQAAAAJ&hl=en">
   <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-100000?logo=googlescholar&labelColor=4B6FDD&color=4B6FDD">
 </a>
-&nbsp;
+
 <a href="https://orcid.org/0000-0003-0432-0581">
   <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--0432--0581-brightgreen">
 </a>
-&nbsp;
+
 <a href="https://Luna-Xue.github.io">
   <img alt="Website" src="https://img.shields.io/badge/Personal%20Website-Luna--Xue.github.io-00694B">
 </a>
