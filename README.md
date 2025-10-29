@@ -1,11 +1,18 @@
 <h1 align="center">Hi, I'm Xiaochan (Luna) Xue 薛晓婵 👋</h1>
+
 <p align="center">
 Assistant Professor · University of Hawaiʻi at Mānoa<br/>
-Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber Physical System</b>, and <b>AI/ML for O-RAN</b> 
-[[![Lab Website](https://img.shields.io/badge/Lab%20Website-NextGLab-00694B?logo=github&logoColor=white)](https://github.com/NextGLab)
+Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber-Physical Systems</b>, and <b>AI/ML for O-RAN</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NextGLab">
+    <img alt="Lab Website" src="https://img.shields.io/badge/Lab%20Website-NextGLab-00694B?logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
+
 
 ### 🌱 Teaching @ UHM
 
