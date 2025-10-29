@@ -32,9 +32,5 @@ Courses I'm developing and teaching:
 </a>
 &nbsp;
 <a href="https://xueshannon.github.io">
-  <img alt="Website" src="https://img.shields.io/badge/Personal%20Website-xueshannon.github.io-00694B">
+  <img alt="Website" src="https://img.shields.io/badge/Personal%20Website-Luna-Xue.github.io-00694B">
 </a>
-
----
-
-<sub>Theme: minimal, project-centered. Metrics by [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
