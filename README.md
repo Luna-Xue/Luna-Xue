@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Xiaochan (Shannon) Xue 薛晓婵 👋</h1>
+<h1 align="center">Hi, I'm Xiaochan (Luna) Xue 薛晓婵 👋</h1>
 <p align="center">
 Assistant Professor · University of Hawaiʻi at Mānoa<br/>
 Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber Physical System</b>, and <b>AI/ML for O-RAN</b> 
