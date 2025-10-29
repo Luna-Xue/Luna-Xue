@@ -9,8 +9,8 @@ Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber Physic
 ### 🌱 Teaching @ UHM
 
 Courses I'm developing and teaching:
-- **ECE 693E**: Open RAN – Architecture, Security & AI Workflows  
-- **ECE 669**: Advanced Wireless Security & Integrated Sensing  
+- **ECE 693E - 25 Fall**: Next Generation Wireless Communication - O-RAN/AI-RAN
+- **ECE 669 - 26 Spring**: Wireless and Mobile Security
 
 ---
 
