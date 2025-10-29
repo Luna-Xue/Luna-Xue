@@ -27,3 +27,15 @@ Courses I'm developing and teaching:
 <a href="https://Luna-Xue.github.io">
   <img alt="Website" src="https://img.shields.io/badge/Personal%20Website-Luna--Xue.github.io-00694B">
 </a>
+
+---
+
+### Tech
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=Mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?logo=latex&logoColor=white)
