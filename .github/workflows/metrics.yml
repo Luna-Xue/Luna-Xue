@@ -1,0 +1,24 @@
+name: Profile metrics (isocalendar)
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 每天 08:00 HST 生成（GitHub cron 用 UTC；18:00 UTC = 08:00 HST）
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 允许写入 metrics.svg
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Luna-Xue
+          filename: metrics.svg
+          template: classic
+          base: ""                      # 关闭基础信息，保持极简
+          config_timezone: Pacific/Honolulu
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year   # 可选: full-year
