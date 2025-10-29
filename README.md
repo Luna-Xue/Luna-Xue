@@ -26,7 +26,8 @@ Courses I'm developing and teaching:
 
 [![Website](https://img.shields.io/badge/Luna--Xue-00694B?logo=githubpages&logoColor=white)](https://Luna-Xue.github.io) 
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:xxue@hawaii.edu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaochan-xue-2b7b75227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/xiaochan-xue-2b7b75227/)
+
 [![Google Scholar](https://img.shields.io/badge/Scholar-4B6FDD?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rhcjOdQAAAAJ&hl=en) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0432-0581)
 
