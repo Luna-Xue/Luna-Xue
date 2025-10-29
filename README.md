@@ -24,11 +24,24 @@ Courses I'm developing and teaching:
 
 ### 🌐 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-Luna--Xue-00694B?logo=githubpages&logoColor=white)](https://Luna-Xue.github.io)
-[![Email](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:xxue@hawaii.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaochan-xue-2b7b75227/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-View-4B6FDD?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rhcjOdQAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0432--0581-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0432-0581)
+<p align="center">
+  <a href="https://Luna-Xue.github.io">
+    <img src="https://img.shields.io/badge/Website-Luna--Xue-00694B?logo=githubpages&logoColor=white&style=flat-square" alt="Website">
+  </a>
+  <a href="mailto:xxue@hawaii.edu">
+    <img src="https://img.shields.io/badge/Gmail-Mail-red?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/xiaochan-xue-2b7b75227/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=rhcjOdQAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-View-4B6FDD?logo=googlescholar&logoColor=white&style=flat-square" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0000-0003-0432-0581">
+    <img src="https://img.shields.io/badge/ORCID-0000--0003--0432--0581-A6CE39?logo=orcid&logoColor=white&style=flat-square" alt="ORCID">
+  </a>
+</p>
+
 
 ---
 
