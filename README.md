@@ -25,5 +25,5 @@ Courses I'm developing and teaching:
 </a>
 &nbsp;
 <a href="https://Luna-Xue.github.io">
-  <img alt="Website" src="https://img.shields.io/badge/Personal%20Website-Luna-Xue.github.io-00694B">
+  <img alt="Website" src="https://img.shields.io/badge/Personal%20Website-Luna--Xue.github.io-00694B">
 </a>
