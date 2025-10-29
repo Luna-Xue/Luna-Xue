@@ -6,13 +6,6 @@ Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber Physic
 
 ---
 
-### 📈 Contributions
-
-<!-- GitHub calendar (via metrics.svg if you enabled it) -->
-![Contribution Calendar](./metrics.svg)
-
----
-
 ### 🌱 Teaching @ UHM
 
 Courses I'm developing and teaching:
@@ -31,6 +24,6 @@ Courses I'm developing and teaching:
   <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--0432--0581-brightgreen">
 </a>
 &nbsp;
-<a href="https://xueshannon.github.io">
+<a href="https://Luna-Xue.github.io">
   <img alt="Website" src="https://img.shields.io/badge/Personal%20Website-Luna-Xue.github.io-00694B">
 </a>
