@@ -6,8 +6,8 @@ Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber-Physic
 </p>
 
 <p align="center">
-  <a href="https://github.com/NextGLab">
-    <img alt="Lab Website" src="https://img.shields.io/badge/Lab%20Website-NextGLab-00694B?logo=github&logoColor=white">
+  <a href="https://github.com/WINGS-UHM">
+    <img alt="Lab Website" src="https://img.shields.io/badge/Lab%20Website-WINGS Lab-00694B?logo=github&logoColor=white">
   </a>
 </p>
 
