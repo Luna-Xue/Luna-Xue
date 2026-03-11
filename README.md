@@ -47,3 +47,6 @@ Courses I'm developing and teaching:
 ![Steam](https://img.shields.io/badge/Steam-171A21?logo=steam&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1E1E1E?logo=blackmagicdesign&logoColor=white)
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luna-Xue&theme=github_dark"/>
+</p>
