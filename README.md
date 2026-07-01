@@ -18,7 +18,7 @@ Researching <b>NextG Wireless</b>, <b>ISAC</b>, <b>Security</b>, <b>Cyber-Physic
 
 Courses I'm developing and teaching:
 - **ECE 693E - 25 Fall**: Intelligent and Secure Wireless Networks - O-RAN/AI-RAN
-- **ECE 669 - 26 Spring**: Wireless and Mobile Security
+- **ECE 669 - 26/27 Spring**: [Wireless and Mobile Security](https://github.com/Luna-Xue/ECE669-Wireless-and-Mobile-Security)
 - **ECE 362 - 26 Fall**: Discrete Math for Engineers
 
 ---
